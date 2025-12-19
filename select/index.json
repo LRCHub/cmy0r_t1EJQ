@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "航海の唄",
+  "base_artist": "SAYURI",
+  "createdAt": "2025-12-19T05:20:29.643235Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "航海の唄 - About a Voyage (My Hero Academia Ending Theme Song)",
+      "artist": "SAYURI",
+      "has_synced": true,
+      "path": "select/01_航海の唄_-_About_a_Voyage_(My_Hero_Academia_Ending_Theme_Song)_SAYURI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "航海の唄-「め」弾き語りver.-",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/02_航海の唄-「め」弾き語りver.-_さユり.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "航海の唄",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/03_航海の唄_さユり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "航海の唄",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_01_航海の唄_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "航海の唄",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_02_航海の唄_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "航海の唄",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_03_航海の唄_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "航海の唄",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_04_航海の唄_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "航海の唄 -TVアニメ「僕のヒーローアカデミア」EDver.-",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_05_航海の唄_-TVアニメ「僕のヒーローアカデミア」EDver.-_さユり.txt"
+    }
+  ]
+}
